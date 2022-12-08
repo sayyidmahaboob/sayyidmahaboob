@@ -1,5 +1,3 @@
-# My-Personal-Info
-
 <h1 align="center">Hi 👋, I'm Syed Mahaboob</h1>
 <h3 align="center">A passionate learning frontend developer from India</h3>
 
